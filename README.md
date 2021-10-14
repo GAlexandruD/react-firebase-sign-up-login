@@ -5,8 +5,8 @@ This is a React app that uses Firebase to login users and save their data.
 ## Features
 
 - No Redux
-- Firebase authentication
-- Cloud Firestore database
+- Firebase authentication (Web version 9 - modular)
+- Cloud Firestore database (Web version 9 - modular)
 
 ## Installation
 
