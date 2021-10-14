@@ -18,7 +18,7 @@ This is a React app that uses Firebase to login users and save their data.
   yarn
 ```
 
-- Make a file named Make a file named "react-firebase-sign-up-login.apikey.js" in "src/firebase/"
+- Make a file named "react-firebase-sign-up-login.apikey.js" in "src/firebase/"
 
 ```bash
   touch src/firebase/react-firebase-sign-up-login.apikey.js
