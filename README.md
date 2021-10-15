@@ -26,13 +26,13 @@ This is a React app that uses Firebase to login users and save their data.
 
 - Add your API Key details from Firebase so the file looks like this:
 
-```bash
+```js
 export const localApiKey = {
-   apiKey: "Your firebase apiKey",
-   authDomain: "Your firebase authDomain",
-   projectId: "Your firebase projectID",
-   storageBucket: "Your firebase storageBucket",
-   messagingSenderId: "Your firebase messagingSenderId",
-   appId: "Your firebase appId",
- };
+  apiKey: "Your firebase apiKey",
+  authDomain: "Your firebase authDomain",
+  projectId: "Your firebase projectID",
+  storageBucket: "Your firebase storageBucket",
+  messagingSenderId: "Your firebase messagingSenderId",
+  appId: "Your firebase appId",
+};
 ```
